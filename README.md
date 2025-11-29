@@ -1,2 +1,0 @@
-# deus
-time travel simulator
